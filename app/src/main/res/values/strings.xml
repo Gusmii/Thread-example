@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamenPSPAsierGusmano</string>
+    <string name="imagen1">ExamenPSPAsierGusmano</string>
+    <string name="imagen2">ExamenPSPAsierGusmano</string>
+    <string name="imagen3">ExamenPSPAsierGusmano</string>
+    <string name="imagen4">ExamenPSPAsierGusmano</string>
+    <string name="imagen5">ExamenPSPAsierGusmano</string>
+    <string name="imagen6">ExamenPSPAsierGusmano</string>
+
+    <string name="btn1">Cargar Imagen</string>
+    <string name="btn2">Cargar Imagen</string>
+    <string name="btn3">Cargar Imagen</string>
+    <string name="btn4">Cargar Imagen</string>
+    <string name="btn5">Cargar Imagen</string>
+    <string name="btn6">Imagen Aleatoria</string>
+</resources>
